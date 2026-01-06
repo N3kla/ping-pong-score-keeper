@@ -18,6 +18,16 @@ Interactive ping-pong (table tennis) score tracker built with **vanilla JavaScri
 - CSS3 (Flexbox, custom shadows and transitions)
 - Vanilla JavaScript (DOM manipulation, event listeners)
 
+## About this project
+Learning project completed during Colt Steele's "The Web Developer Bootcamp" course on Udemy.
+
+**Key point:** I did **not** follow the code-along step by step.  
+Instead, I paused the final video, looked only at the finished design screenshot, and built the entire app independently from scratch.  
+This approach helped me deeply understand DOM manipulation, event listeners, conditional logic, and UI state management.
+This is my first independent JavaScript project during career transition to frontend development
+
+Goal: Practice vanilla JavaScript while creating a functional, responsive, and visually appealing small app.
+
 ## Screenshot
 
 ### Initial state
@@ -29,12 +39,4 @@ Interactive ping-pong (table tennis) score tracker built with **vanilla JavaScri
 ### After win
 <img width="502" height="443" alt="image" src="https://github.com/user-attachments/assets/822eb546-c9f5-41d8-88a0-4f16526246a1" />
 
-## About this project
-Learning project completed during Colt Steele's "The Web Developer Bootcamp" course on Udemy.
 
-**Key point:** I did **not** follow the code-along step by step.  
-Instead, I paused the final video, looked only at the finished design screenshot, and built the entire app independently from scratch.  
-This approach helped me deeply understand DOM manipulation, event listeners, conditional logic, and UI state management.
-This is my first independent JavaScript project during career transition to frontend development
-
-Goal: Practice vanilla JavaScript while creating a functional, responsive, and visually appealing small app.
