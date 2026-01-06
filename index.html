@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Ping-Pong</title>
+</head>
+
+<body class="main">
+    <div class="main-div">
+        <div class="first"><img src="conor-samuel-vPKGcFEbmjc-unsplash.jpg" alt="ping pong racket on table"></div>
+        <div class="second">
+            <p class="par1"><b>Ping Pong Score Keeper</b></p>
+        </div>
+        <div class="third">
+            <h1><span class="hp1">0</span> to <span class="hp2">0</span></h1>
+            <p class="par2">Use the buttons below to keep score.</p>
+            <label for="final-select"><b>Playing To</b></label>
+            <select name="final" id="final-select" class="selector">
+                <option value="" disabled selected hidden>Select:</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+            </select>
+        </div>
+        <div class="fourth">
+            <button name="p1" class="p1" disabled><b>+1 Player One</b></button>
+            <button name="p2" class="p2" disabled><b>+1 Player Two</b></button>
+            <button name="reset" class="reset" disabled><b>Reset</b></button>
+        </div>
+
+    </div>
+
+
+    <script src="app.js"></script>
+</body>
+
+</html>
