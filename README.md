@@ -20,9 +20,9 @@ Interactive ping-pong (table tennis) score tracker built with **vanilla JavaScri
 
 ## Screenshot
 - Initial state
-<img width="500" height="444" alt="image" src="https://github.com/user-attachments/assets/08995607-f11d-46b9-9e58-5a884677c301" />
+ <img width="500" height="444" alt="image" src="https://github.com/user-attachments/assets/08995607-f11d-46b9-9e58-5a884677c301" />
 - During game
-<img width="500" height="442" alt="image" src="https://github.com/user-attachments/assets/692810d0-62d2-4cca-bd64-07bbee276153" />
+  <img width="500" height="442" alt="image" src="https://github.com/user-attachments/assets/692810d0-62d2-4cca-bd64-07bbee276153" />
 - After win
 <img width="502" height="443" alt="image" src="https://github.com/user-attachments/assets/822eb546-c9f5-41d8-88a0-4f16526246a1" />
 
